@@ -1,6 +1,6 @@
-| Nama      | Muhammad Din Al Ayubi |
+| Nama      | Anindha Latiefa Zahra |
 | ----------- | ----------- |
-| NIM     | 312010293       |
+| NIM     | 312010323       |
 | Kelas   | TI.22.A.3        |
 | Tugas   | Fragment        |
 
